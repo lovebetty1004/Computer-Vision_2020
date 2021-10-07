@@ -1,6 +1,6 @@
 # Computer-Vision_Summer2020_CourseProjects
 
-## Course Projects for NTU Computer Vision (prof. Chiou-Shann Fuh)
+### Course Projects for NTU Computer Vision (prof. Chiou-Shann Fuh)
 
 ## Built With
 
